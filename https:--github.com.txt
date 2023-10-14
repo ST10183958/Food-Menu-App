@@ -1,0 +1,1 @@
+https://github.com/Kurokeida/Food-App/blob/main/foodapp/App.tsx
